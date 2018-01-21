@@ -1,0 +1,23 @@
+{
+  "name": "projectelaine",
+  "version": "1.0.0",
+  "description": "personal portfolio app for Elaine Navas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattreyes7/projectElaine.git"
+  },
+  "author": "matt reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattreyes7/projectElaine/issues"
+  },
+  "homepage": "https://github.com/mattreyes7/projectElaine#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}

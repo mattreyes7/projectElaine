@@ -1,0 +1,10 @@
+<% include partials/header %>
+
+<% paintings.forEach(function(painting){ %>
+    <div>
+        <img src="<%= painting.image %>">
+    </div>
+
+<% }) %>
+
+<% include partials/footer %>
